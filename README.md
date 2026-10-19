@@ -45,7 +45,7 @@ The purpose of this repository is to track my progress, strengthen my programmin
 To run the Expense Tracker locally:
 
 Clone the repository:
-git clone https://github.com/tsukuralabs/sharpener-expense-tracker.git
+git clone https://github.com/tsukuralabs/sharpener-tech.git
 
 Open the project folder:
 cd sharpener-expense-tracker
